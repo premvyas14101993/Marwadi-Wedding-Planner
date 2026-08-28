@@ -1,0 +1,6 @@
+{
+  "name": "Marwadi Wedding Planner",
+  "description": "Comprehensive Royal Marwadi wedding management system with rituals, budget, expenses, shopping, guests, vendors, tasks, calendar, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
